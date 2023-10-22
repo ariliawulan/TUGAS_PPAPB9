@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Base.Theme.TUGAS_PPAPB9" parent="Theme.Material3.DayNight.NoActionBar">-->
+<!--        &lt;!&ndash; Customize your light theme here. &ndash;&gt;-->
+<!--        &lt;!&ndash; <item name="colorPrimary">@color/my_light_primary</item> &ndash;&gt;-->
+<!--    </style>-->
+
+<!--    <style name="Theme.Tugas_PPAPBP9" parent="Base.Theme.TUGAS_PPAPB9" />-->
+
+<!--    <style name="Theme.TUGAS_PPAPB9.ActionBar" parent="Theme.Material3.DayNight" />-->
+<!--    <item name="biru" type="color">@color/blue</item>-->
+</resources>
